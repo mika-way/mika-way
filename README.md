@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @mika-way
 - 👀 I’m interested in Porgamming with Python, Java, Kotlin
-- ⚡ Fun fact: My First Coding Projekt was the bigest then i have.
 
 <!---
 mika-way/mika-way is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
